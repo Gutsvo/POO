@@ -1,0 +1,13 @@
+C:\Users\Pensão\source\repos\Exercício\Exercício\bin\Debug\Exercício.exe.config
+C:\Users\Pensão\source\repos\Exercício\Exercício\bin\Debug\Exercício.exe
+C:\Users\Pensão\source\repos\Exercício\Exercício\bin\Debug\Exercício.pdb
+C:\Users\Pensão\source\repos\Exercício\Exercício\obj\Debug\Exercício.csproj.AssemblyReference.cache
+C:\Users\Pensão\source\repos\Exercício\Exercício\obj\Debug\Exercício.Menu.resources
+C:\Users\Pensão\source\repos\Exercício\Exercício\obj\Debug\Exercício.Atividade1.resources
+C:\Users\Pensão\source\repos\Exercício\Exercício\obj\Debug\Exercício.Atividade2.resources
+C:\Users\Pensão\source\repos\Exercício\Exercício\obj\Debug\Exercício.Atividade3.resources
+C:\Users\Pensão\source\repos\Exercício\Exercício\obj\Debug\Exercício.Properties.Resources.resources
+C:\Users\Pensão\source\repos\Exercício\Exercício\obj\Debug\Exercício.csproj.GenerateResource.cache
+C:\Users\Pensão\source\repos\Exercício\Exercício\obj\Debug\Exercício.csproj.CoreCompileInputs.cache
+C:\Users\Pensão\source\repos\Exercício\Exercício\obj\Debug\Exercício.exe
+C:\Users\Pensão\source\repos\Exercício\Exercício\obj\Debug\Exercício.pdb
