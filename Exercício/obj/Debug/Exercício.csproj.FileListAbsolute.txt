@@ -11,3 +11,16 @@ C:\Users\Pensão\source\repos\Exercício\Exercício\obj\Debug\Exercício.csproj.
 C:\Users\Pensão\source\repos\Exercício\Exercício\obj\Debug\Exercício.csproj.CoreCompileInputs.cache
 C:\Users\Pensão\source\repos\Exercício\Exercício\obj\Debug\Exercício.exe
 C:\Users\Pensão\source\repos\Exercício\Exercício\obj\Debug\Exercício.pdb
+C:\Users\2jd\Documents\Gustavo e Ryu\POO\Exercício\bin\Debug\Exercício.exe.config
+C:\Users\2jd\Documents\Gustavo e Ryu\POO\Exercício\bin\Debug\Exercício.exe
+C:\Users\2jd\Documents\Gustavo e Ryu\POO\Exercício\bin\Debug\Exercício.pdb
+C:\Users\2jd\Documents\Gustavo e Ryu\POO\Exercício\obj\Debug\Exercício.csproj.AssemblyReference.cache
+C:\Users\2jd\Documents\Gustavo e Ryu\POO\Exercício\obj\Debug\Exercício.Menu.resources
+C:\Users\2jd\Documents\Gustavo e Ryu\POO\Exercício\obj\Debug\Exercício.Atividade1.resources
+C:\Users\2jd\Documents\Gustavo e Ryu\POO\Exercício\obj\Debug\Exercício.Atividade2.resources
+C:\Users\2jd\Documents\Gustavo e Ryu\POO\Exercício\obj\Debug\Exercício.Atividade3.resources
+C:\Users\2jd\Documents\Gustavo e Ryu\POO\Exercício\obj\Debug\Exercício.Properties.Resources.resources
+C:\Users\2jd\Documents\Gustavo e Ryu\POO\Exercício\obj\Debug\Exercício.csproj.GenerateResource.cache
+C:\Users\2jd\Documents\Gustavo e Ryu\POO\Exercício\obj\Debug\Exercício.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Documents\Gustavo e Ryu\POO\Exercício\obj\Debug\Exercício.exe
+C:\Users\2jd\Documents\Gustavo e Ryu\POO\Exercício\obj\Debug\Exercício.pdb
