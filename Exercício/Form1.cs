@@ -42,5 +42,12 @@ namespace Exercício
             Atividade3 tela = new Atividade3();
             tela.Show();
         }
+
+        private void fatoraçãoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Atividade5 tela = new Atividade5();
+            tela.Show();
+        }
     }
 }

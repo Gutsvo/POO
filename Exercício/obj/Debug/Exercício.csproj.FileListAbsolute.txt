@@ -24,3 +24,4 @@ C:\Users\2jd\Documents\Gustavo e Ryu\POO\Exercício\obj\Debug\Exercício.csproj.
 C:\Users\2jd\Documents\Gustavo e Ryu\POO\Exercício\obj\Debug\Exercício.csproj.CoreCompileInputs.cache
 C:\Users\2jd\Documents\Gustavo e Ryu\POO\Exercício\obj\Debug\Exercício.exe
 C:\Users\2jd\Documents\Gustavo e Ryu\POO\Exercício\obj\Debug\Exercício.pdb
+C:\Users\2jd\Documents\Gustavo e Ryu\POO\Exercício\obj\Debug\Exercício.Atividade5.resources
