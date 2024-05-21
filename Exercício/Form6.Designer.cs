@@ -102,6 +102,7 @@
             this.btnLoopDoWhile.TabIndex = 6;
             this.btnLoopDoWhile.Text = "Do...While";
             this.btnLoopDoWhile.UseVisualStyleBackColor = true;
+            this.btnLoopDoWhile.Click += new System.EventHandler(this.btnLoopDoWhile_Click);
             // 
             // btnLoopWhile
             // 
@@ -121,6 +122,7 @@
             this.btnLoopFor.TabIndex = 8;
             this.btnLoopFor.Text = "For";
             this.btnLoopFor.UseVisualStyleBackColor = true;
+            this.btnLoopFor.Click += new System.EventHandler(this.btnLoopFor_Click);
             // 
             // Atividade5
             // 

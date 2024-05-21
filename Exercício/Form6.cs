@@ -32,6 +32,33 @@ namespace Exercício
             txtNumero.Clear();
         }
 
+        private void btnLoopDoWhile_Click(object sender, EventArgs e)
+        {
+            num = Convert.ToDouble(txtNumero.Text);
+            i = num - 1;
+            x = num * i;
+            do
+            {
+                txtFatorado.Text = String.Concat(txtFatorado.Text, num, "x", i, "=", x.ToString(), "\r\n");
+                i--;
+                num = x;
+                x = x * i;
+            } while (x > 0);
+        }
+
+        private void btnLoopFor_Click(object sender, EventArgs e)
+        {
+            num = Convert.ToDouble(txtNumero.Text);
+            i = num - 1;
+            x = num * i;
+            txtFatorado.Text = String.Concat(txtFatorado.Text, num, "x", i, "=", x.ToString(), "\r\n");
+            for (i = num - 2;x > 0; i--){
+                num = x;
+                x = num * i;
+                txtFatorado.Text = String.Concat(txtFatorado.Text, num, "x", i, "=", x.ToString(), "\r\n");
+            }
+        }
+
         private void button3_Click(object sender, EventArgs e)
         {
             num = Convert.ToDouble(txtNumero.Text);
@@ -41,8 +68,8 @@ namespace Exercício
             {
                 txtFatorado.Text = String.Concat(txtFatorado.Text, num, "x", i, "=", x.ToString(), "\r\n");
                 i--;
-                x = x * i;
                 num = x;
+                x = x * i;
             }
         }
         private void Form6_Load(object sender, EventArgs e)
